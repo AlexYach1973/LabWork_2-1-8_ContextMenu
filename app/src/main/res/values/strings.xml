@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">LabWork 2-1-8</string>
+    <string name="up_date">UpDate</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="design_patterns">
+        <item>Abstract Factory</item>
+        <item>Builder</item>
+        <item>Factory Method</item>
+        <item>Prototype</item>
+        <item>Singleton</item>
+        <item>Adapter</item>
+        <item>Bridge</item>
+        <item>Composite</item>
+        <item>Decorator</item>
+        <item>Facade</item>
+        <item>Flyweight</item>
+        <item>Proxy</item>
+        <item>Chain of responsibility</item>
+        <item>Command</item>
+        <item>Interpreter</item>
+        <item>Iterator</item>
+        <item>Mediator</item>
+        <item>Memento</item>
+        <item>Observer</item>
+        <item>State</item>
+        <item>Strategy</item>
+        <item>Template method</item>
+        <item>Visitor</item>
+    </string-array>
+</resources>
